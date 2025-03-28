@@ -24,7 +24,7 @@ Hey! I'm zerotrace, a passionate developer who loves coding, creating, and explo
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ComSourceLeaks&layout=compact&theme=tokyonight)
 
 ## 🔥 Streak Stats
-![GitHub Streak](https://streak-stats.demolab.com/?user=ComSourceLeaks&theme=tokyonight)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ComSourceLeaks&theme=dark)
 
 ---
 ⭐ **Feel free to explore my repositories and drop a star if you like my work!** 🚀
