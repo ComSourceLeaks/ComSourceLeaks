@@ -5,7 +5,7 @@
 ## 🚀 About Me
 Hey! I'm zerotrace, a passionate developer who loves coding, creating, and exploring new technologies. I specialize in **c++** and love working on **API's & Game Hacks**.
 
-- 🔭 Currently working on: **Wraith C2**
+- 🔭 Currently working on: **Exploiter's Heaven**
 - 🌱 Currently learning: **KMDF**
 - 📫 How to reach me: **discord -> zerotracee**
 
