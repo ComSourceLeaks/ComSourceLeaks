@@ -26,12 +26,5 @@ Hey! I'm zerotrace, a passionate developer who loves coding, creating, and explo
 ## 🔥 Streak Stats
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ComSourceLeaks&theme=dark)
 
-
-###
-
-<img src="https://raw.githubusercontent.com/ComSourceLeaks/ComSourceLeaks/output/snake.svg" alt="Snake animation" />
-
-###
-
 ---
 ⭐ **Feel free to explore my repositories and drop a star if you like my work!** 🚀
