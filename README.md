@@ -26,5 +26,11 @@ Hey! I'm zerotrace, a passionate developer who loves coding, creating, and explo
 ## 🔥 Streak Stats
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ComSourceLeaks&theme=dark)
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ComSourceLeaks/ComSourceLeaks/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ComSourceLeaks/ComSourceLeaks/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/ComSourceLeaks/ComSourceLeaks/output/pacman-contribution-graph.svg">
+</picture>
+
 ---
 ⭐ **Feel free to explore my repositories and drop a star if you like my work!** 🚀
